@@ -16,3 +16,6 @@ url
 
 ### Autor
 Anyeli Igybe Lopez Aranda
+
+### Status
+Finalizado en la Version 1.0
